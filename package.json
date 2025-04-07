@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@huggingface/inferenceclient": "^1.0.0",
+    "@huggingface/inferenceclient": "^1.0.0"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
